@@ -1,0 +1,45 @@
+body {
+  font-family: "Verdana", "Tahoma", sans-serif;
+  font-size: 18px;
+  background: #fff;
+}
+
+#left {
+  float: left;
+  width: 75%;
+}
+
+#right {
+  margin-top: 80px;
+  margin-right: 40px;
+  float: right;
+  width: 20%;
+}
+
+#repos {
+  list-style: none;
+  padding: 0;
+}
+
+#repos li {
+  padding: 4px 0;
+}
+
+a, a:visited {
+  font-weight: bold;
+  color: #761b00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#contact {
+  list-style: none;
+  padding: 0;
+}
+
+#contact li {
+  padding: 4px 0;
+}
